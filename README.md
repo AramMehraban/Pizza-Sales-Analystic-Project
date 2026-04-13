@@ -76,11 +76,9 @@ pizza-sales-analysis/
 ## Dashboard Preview
 
 ![Main Dashboard](screenshots/pizza_sales_dashboard.png)
-![Daily Trend](screenshots/Daily_Trend_dashboard.png)
-![Monthly Trend](screenshots/Monthly_Trend_dashboard.png)
-![Sales by Category](screenshots/Sales_by_Category_dashboard.png)
 
 📁 More dashboards are available in the `screenshots` folder.
+
 
 ## How to Run This Project
 
