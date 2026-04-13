@@ -74,7 +74,20 @@ pizza-sales-analysis/
 - Daily order patterns
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+
+![Dashboard 1](screenshots/Sales_by_Category_dashboard.png)
+![Dashboard 2](screenshots/Sales_by_Size_dashboard.png)
+![Dashboard 3](screenshots/Bottom_5_Pizzas_by_Orders_dashboard.png)
+![Dashboard 4](screenshots/Bottom_5_Pizzas_by_Quantity_dashboard.png)
+![Dashboard 5](screenshots/Bottom_5_Pizzas_by_Revenue_dashboard.png)
+![Dashboard 6](screenshots/Daily_Trend_dashboard.png)
+![Dashboard 7](screenshots/Monthly_Trend_dashboard.png)
+![Dashboard 8](screenshots/pizza_sales_dashboard.png)
+![Dashboard 9](screenshots/Pizzas_Sold_by_Category(Feb)_dashboard.png)
+![Dashboard 10](screenshots/Top_5_Pizzas_by_Orders_dashboard.png)
+![Dashboard 11](screenshots/Top_5_Pizzas_by_Quantity_dashboard.png)
+![Dashboard 12](screenshots/Top_5_Pizzas_by_Revenue_dashboard.png)
+
 
 ## How to Run This Project
 
